@@ -47,15 +47,17 @@ Users should be able to:
 
 ### What I learned
 
-Apologies to my future self for turnaround time delays.
-Eventually got to use CSS Grid for first time on frontendmentor.io as differentiated from FlexBox.
-Must say it's a very powerful tool, and it excites me.
+Apologies to my future self for turnaround time delays.  
+I eventually got to use CSS Grid for first time on frontendmentor.io as differentiated from FlexBox.  
+I must say it's a very powerful tool, and it excites me. Looking forward to using it more extensively.  
 
 
 ### Continued development
 
-Another media query actually due between mobile and full desktop view but I'm tired much.
-So subsequently will explore and practice best responsive CSS Grid use.
+Short falls:  
+1) Another media query actually due between mobile and full desktop view but I'm tired much.  
+2) Also could put more effort into item sizing to make clone exact copy.  
+3) "Rated 5 stars" background also to be clipped and not spanning full width.  
 
 ### Useful resources
 

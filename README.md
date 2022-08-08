@@ -72,5 +72,5 @@ Stackoverflow, MDN Web Docs, Google
 
 ## Acknowledgments
 
-To God who put breathe in my lungs. 
-To the dream to make life easier for my future self
+To God who put breathe in my lungs.  
+To the dream to make life easier for my future self  

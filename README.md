@@ -49,7 +49,7 @@ Users should be able to:
 
 Apologies to my future self for turnaround time delays.
 Eventually got to use CSS Grid for first time on frontendmentor.io as differentiated from FlexBox.
-Most say it's a very powerful tool, and it excites me.
+Must say it's a very powerful tool, and it excites me.
 
 
 ### Continued development

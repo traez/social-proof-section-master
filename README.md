@@ -57,7 +57,8 @@ I must say it's a very powerful tool, and it excites me. Looking forward to usin
 Short falls:  
 1) Another media query actually due between mobile and full desktop view but I'm tired much.  
 2) Also could put more effort into item sizing to make clone exact copy.  
-3) "Rated 5 stars" background also to be clipped and not spanning full width.  
+3) "Rated 5 stars" background also to be clipped and not spanning full width. 
+4) Verified Buyers also shouldn't all be on straight row.   
 
 ### Useful resources
 
